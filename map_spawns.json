@@ -1,0 +1,47 @@
+{
+  "victoria road rocky road iii": {
+    "mobs": [
+      "100100",
+      "100120",
+      "100101"
+    ],
+    "platforms": [
+      {
+        "name": "Ground Floor",
+        "y_level": 85,
+        "x_min": 5,
+        "x_max": 95
+      }
+    ],
+    "markers": {
+      "patrol_zone": {
+        "rect": [
+          30,
+          100,
+          400,
+          600
+        ],
+        "color": [
+          0,
+          255,
+          0
+        ],
+        "label": "Rocky Road Ground Patrol Area"
+      },
+      "safe_ladder": {
+        "rect": [
+          550,
+          400,
+          120,
+          120
+        ],
+        "color": [
+          255,
+          0,
+          0
+        ],
+        "label": "Escape Ladder Node"
+      }
+    }
+  }
+}
